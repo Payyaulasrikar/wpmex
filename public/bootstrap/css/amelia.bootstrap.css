@@ -86,7 +86,7 @@ hr {
 }
 
 mark {
-  color: #000;
+  color: #adae3d;
   background: #ff0;
 }
 
@@ -141,7 +141,7 @@ figure {
 fieldset {
   padding: 0.35em 0.625em 0.75em;
   margin: 0 2px;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #d31414;
 }
 
 legend {
@@ -306,7 +306,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #ffffff;
-  background-color: #108a93;
+  background-color: #10931b;
 }
 
 input,
@@ -362,7 +362,7 @@ img {
   max-width: 100%;
   padding: 4px;
   line-height: 1.428571429;
-  background-color: #108a93;
+  background-color: #1b9310;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -377,7 +377,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #0d747c;
+  border-top: 1px solid #0d7c39;
 }
 
 .sr-only {
